@@ -22,7 +22,7 @@
 
 <h2 id="explanation">Explanation</h2>
 
-The Schrödinger License is a permissive software license with two possible states: **Unobserved** and **Observed**.
+The Observer License is a permissive software license with two possible states: **Unobserved** and **Observed**.
 
 Software begins in the Unobserved State with respect to each person or legal entity. In this state, the software may be used, copied, modified, distributed, sublicensed, and sold without an attribution requirement.
 
