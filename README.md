@@ -1,5 +1,5 @@
 <div align="center">
-<h1>The Schrödinger License</h1>
+<h1>The Observer License</h1>
 <h3>A permissive open-source license that changes when you read it.</h3>
 <img src="https://counter.seku.su/cmoe?name=Kooraseru&theme=mb" alt="Visitor counter">
 <table>
@@ -14,7 +14,7 @@
 > [!WARNING]
 > **Do not read `LICENSE` unless you intend to observe it.**
 >
-> The Schrödinger License is intentionally recursive. Your rights and obligations depend on whether you have observed the license, while determining those rights by reading the license itself constitutes observation.
+> The Observer License is intentionally recursive. Your rights and obligations depend on whether you have observed the license, while determining those rights by reading the license itself constitutes observation.
 >
 > You do not need to read `LICENSE` to use software distributed under it. If you choose to read it, the license will enter its Observed State with respect to you.
 >
@@ -38,20 +38,20 @@ Unfortunately, checking requires reading the license.
 
 <h2 id="quick-start">Quick Start</h2>
 
-To use the Schrödinger License for your own project:
+To use the Observer License for your own project:
 
 1. Copy `LICENSE` into the root of your repository.
 2. Replace `<YEAR>` and `<COPYRIGHT HOLDER>` with the appropriate values.
-3. Distribute your work under the Schrödinger License.
+3. Distribute your work under the Observer License.
 4. Avoid explaining the contents of `LICENSE` to your users. That would ruin the experiment.
 
 The license text itself is dedicated to the public domain and may be copied, modified, and redistributed freely.
 
 > [!NOTE]
-> The Schrödinger License is a custom license. It has not been approved by the Open Source Initiative, assigned an SPDX identifier, or tested in court.
+> The Observer License is a custom license. It has not been approved by the Open Source Initiative, assigned an SPDX identifier, or tested in court.
 
 <h2 id="license">License</h2>
 
-Schrödinger License 0.1. See [LICENSE](LICENSE).
+Observer License 0.1. See [LICENSE](LICENSE).
 
 **Warning:** following that link constitutes observation.
